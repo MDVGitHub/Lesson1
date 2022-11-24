@@ -18,3 +18,4 @@ else
         else 
         {Console.WriteLine(Number2);}
     }
+Console.WriteLine()
