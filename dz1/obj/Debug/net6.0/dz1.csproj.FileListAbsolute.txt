@@ -1,0 +1,15 @@
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/bin/Debug/net6.0/dz1
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/bin/Debug/net6.0/dz1.deps.json
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/bin/Debug/net6.0/dz1.runtimeconfig.json
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/bin/Debug/net6.0/dz1.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/bin/Debug/net6.0/dz1.pdb
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.csproj.AssemblyReference.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.AssemblyInfoInputs.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.AssemblyInfo.cs
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.csproj.CoreCompileInputs.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/refint/dz1.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.pdb
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/dz1.genruntimeconfig.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson1/dz1/obj/Debug/net6.0/ref/dz1.dll
